@@ -1,1 +1,1 @@
-# Treasure-game
+Treasure Hunting Games is a hidden object game. This genre, places the player in a specific environment where the player is expected to find some objects hidden in the environment within a fixed amount of time# Treasure-game
